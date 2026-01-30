@@ -327,13 +327,21 @@ section7{
     border: 100px;
     /* padding: 10px; */
     background-color: rgba(249, 249, 249, 1); 
+    width: 1,500px ;
+    height: 371px;
 }
+/* 
+hr1{
+    height: 250px;
+    border: 0.5px;
+    
+} */
 
 .C1{
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    padding-left:30px;
+    gap: 20px;
+    /* padding-left:30px; */
     margin: 30px;
     font-size: 20px;
 }
@@ -344,14 +352,158 @@ section7{
     gap: 10px;
     padding-left: 260px;
     margin: 30px;
-    
+}
+
+span01,span02,span03{
+    color: #fff;
+    background-color: rgba(255, 102, 0, 1) ;
+    padding: 5px;
+    border-radius: 5px;
+}
+h3{
+   color : rgba(255, 102, 0, 1) ;
+}
+
+span123{
+      color : rgba(255, 102, 0, 1) ;
 }
 
 .bn{
     border-radius: 10px;
-    /* margin: 150px; */
+    margin: 20px;
     padding: 10px;
 }
+
+section8{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.ordre{
+    display: flex;
+    margin: 40px;
+    pad: 20px;
+    justify-content: space-between;
+}
+.ok{
+    border: solid rgb(247, 176, 176);
+    border-radius: 50%;
+    margin: 50px;
+    padding: 20px;
+    
+}
+/* 
+section9{
+    display: flex;
+    justify-content: space-around; */
+
+
+.contenu{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 14px;
+    margin: 20px;
+    padding: 10px;
+   
+
+}
+
+.text1 ,.text3{
+    border: solid rgba(248, 248, 248, 1);
+    margin: 10px;
+    padding: 20px;
+     border-radius: 20px;
+}
+.text2{
+    border: solid rgba(248, 248, 248, 1);
+    margin: 10px;
+    padding: 20px;
+    color: rgba(255, 102, 0, 1);
+     border-radius: 20px;
+}
+
+hr{
+    height: 250px;
+    /* border: 0.5px; */
+    background-color: rgba(44, 44, 44, 1);
+}
+
+section10{
+    background-color: rgba(255, 102, 0, 1);
+    display: flex;
+}
+
+.lg{
+ width: 200px;
+ padding: 10px;
+ margin: 10px;
+}
+.sect1{
+    flex-direction: column;
+    display: flex;
+    font-size: 20px;
+    gap: 20px;
+    color: #fff;
+    padding: 20px 20px;
+
+}
+img{
+    margin: 40px;
+    /* padding: 70px; */
+    background-image: rgba(255, 102, 0, 1) ;
+}
+
+
+.sect2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    text-align: end;
+    color: #fff;
+    gap: 10px;
+   
+}
+    
+
+
+input{
+    padding: 10px ;
+    border: none;
+    border-radius: 10px;
+     width:300px ;
+    height: 48px;
+   
+}
+
+
+.Vo{
+   padding: 10px ;
+    border: none;
+    border-radius: 10px;
+    width:300px ;
+    height: 48px;
+    background-color: rgba(66, 33, 11, 1); 
+    font-size: 20px;
+}
+.fin{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: rgba(255, 102, 0, 1);;
+    
+}
+
+
+
+
+
+
+
+
+
 
 
 
